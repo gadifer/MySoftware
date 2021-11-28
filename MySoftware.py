@@ -4,3 +4,4 @@ def welcome():
     print(f"{name}")
     return
 
+welcome()
