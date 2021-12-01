@@ -1,4 +1,4 @@
-print(f'learning')
+print(f'new learning')
 
 name = "New Screen"
 def welcome():
